@@ -32,4 +32,5 @@ Cho file sv_tnut.sql (1.6MB)
 # 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
 # ![Screenshot 2025-04-24 172850](https://github.com/user-attachments/assets/699348c8-885f-46d1-9fde-504ac0e11cf3)
 # 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC) 
-# 
+# ![image](https://github.com/user-attachments/assets/f78d94a7-5778-4f02-90fa-a33646b7ea6d)
+
