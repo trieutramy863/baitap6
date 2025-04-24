@@ -30,4 +30,6 @@ Cho file sv_tnut.sql (1.6MB)
 # 8. nhập sql để tìm xem có những sv nào có sđt sai khác chỉ 1 số so với sđt của em.
 # ![Screenshot 2025-04-24 111445](https://github.com/user-attachments/assets/97fe118d-6b74-4e2a-9450-a809739ea8b4)
 # 9. BẢNG SV CÓ HƠN 9000 ROWS, HÃY LIỆT KÊ TẤT CẢ CÁC SV NGÀNH KMT, SẮP XẾP THEO TÊN VÀ HỌ ĐỆM, KIỂU TIẾNG  VIỆT, GIẢI THÍCH.
+# ![Screenshot 2025-04-24 172850](https://github.com/user-attachments/assets/699348c8-885f-46d1-9fde-504ac0e11cf3)
+# 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC) 
 # 
