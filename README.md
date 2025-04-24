@@ -15,6 +15,7 @@ Cho file sv_tnut.sql (1.6MB)
 10. HÃY NHẬP SQL ĐỂ LIỆT KÊ CÁC SV NỮ NGÀNH KMT CÓ TRONG BẢNG SV (TRÌNH BÀY QUÁ TRÌNH SUY NGHĨ VÀ GIẢI NHỮNG VỨNG MẮC)
 # Bài Làm
 # 1. Hãy nêu các bước để import được dữ liệu trong sv_tnut.sql vào sql server của em
+# Mở SQL Server Management Studio (SSMS) , 
 # 2. dữ liệu đầu vào là tên của sv; sđt; ngày, tháng, năm sinh của sinh viên (của sv đang làm bài tập này)
 # Triệu Trà My ,0934323782,21-08-2004,
 # 3. nhập sql để tìm xem có những sv nào trùng hoàn toàn ngày/tháng/năm với em?
